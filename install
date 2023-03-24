@@ -1,0 +1,4 @@
+conda create -n cellphonedb
+conda activate cellphonedb
+conda install -c conda-forge pip
+pip install -U cellphonedb -i https://pypi.tuna.tsinghua.edu.cn/simple
